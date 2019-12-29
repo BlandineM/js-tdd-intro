@@ -1,0 +1,22 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlandineM/js-tdd-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlandineM/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/BlandineM/js-tdd-intro#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
